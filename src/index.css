@@ -29,6 +29,7 @@ html {
     margin: auto;
     padding-top: 35px;
 }
+
 /*The Second Component of the web-page*/
 .second-header {
     padding-top: 35px;
@@ -36,6 +37,22 @@ html {
     color: white;
     font-size: 28px ;
 }
+.reactp{
+    color: blue;
+}
+.vercel{
+    color: black;
+}
 span{
     color: yellow;
+}
+
+/*Third Component*/
+#third-button{
+    cursor: pointer;
+    color: violet;
+    border-radius: 10px solid violet;
+    font-family: 'Noto Sans';
+    padding: 5px;
+    background-color: black;
 }
